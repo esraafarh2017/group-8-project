@@ -1,10 +1,10 @@
 package FirstTask;
 
-public class FirstClass {
+public class IY {
 
     public static void main(String[] args) {
-        //Inesa
-    }
 
+        System.out.println("Hello group 8");
+    }
 
 }
