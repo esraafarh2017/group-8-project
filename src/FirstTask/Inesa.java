@@ -1,6 +1,6 @@
 package FirstTask;
 
-public class IY {
+public class Inesa {
 
     public static void main(String[] args) {
 
