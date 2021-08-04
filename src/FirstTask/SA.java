@@ -9,7 +9,9 @@ public class SA {
         System.out.println("Hello Elena");
 
         System.out.println("where is the conflict");
-        System.out.println("Conflict is resolved, Elena");
 
+
+
+          // another conflict resolved, Elena
     }
 }
