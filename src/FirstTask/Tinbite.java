@@ -1,2 +1,5 @@
-package FirstTask;public class Tinbite {
+package FirstTask;
+
+public class Tinbite {
+
 }
